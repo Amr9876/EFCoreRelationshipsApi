@@ -1,0 +1,9 @@
+global using EFCoreRelationshipsApi.Data;
+global using EFCoreRelationshipsApi.Models;
+global using EFCoreRelationshipsApi.Core;
+global using EFCoreRelationshipsApi.Posts;
+global using EFCoreRelationshipsApi.Comments;
+global using EFCoreRelationshipsApi.DTOs;
+global using Microsoft.EntityFrameworkCore;
+global using AutoMapper;
+global using AutoMapper.QueryableExtensions;
